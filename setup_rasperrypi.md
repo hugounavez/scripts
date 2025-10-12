@@ -139,3 +139,11 @@ If SSH **denies password login**, fix it:
 
 **Now your Raspberry Pi is set up for remote access!** 🚀
 
+
+### Install dependencies
+
+```sh
+sudo apt install vim -y
+```
+
+
