@@ -143,7 +143,9 @@ If SSH **denies password login**, fix it:
 ### Install dependencies
 
 ```sh
-sudo apt install vim -y
+# Example — replace with your username and Pi host/IP
+ssh user@your-pi-host 'bash -s' < setup-pi.sh # i have this file within this repo
+
 ```
 
 
